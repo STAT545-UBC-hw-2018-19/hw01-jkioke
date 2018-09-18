@@ -11,7 +11,7 @@ Josh Kioke is a M.Sc. student with the **Institute for Resources, Environment, &
 
 
 
-\*\ The problem is never the RAM
+\* The problem is never the RAM
 
 ## Most Important Top Threes:
 * Pie
